@@ -42,17 +42,14 @@ npx expo install expo-sqlite
 
 ---
 
-# Instalacja projektu
+# Instalacja projektu i uruchomienie
 
-```bash
-npm i
-```
+## Run project http://localhost:8081/
 
-# Uruchomienie
-
-```bash
-npm start
-```
+| Environment     | Install dependencies | Run project   |
+| --------------- | -------------------- | ------------- |
+| VS Code / local | `npm i`              | `npm run web` |
+| CodeSandbox     | automatic            | `npm start`   |
 
 ---
 
